@@ -17,6 +17,12 @@ ORDER BY
     demand_count DESC
 LIMIT 5
 
+--867
+--776
+--557
+--455
+--361
+
 -- The top 5 in-demand skills for UK Data Analyst in 2023 were:
 -- 1. SQL
 -- 2. Excel
