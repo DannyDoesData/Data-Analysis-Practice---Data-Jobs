@@ -4,3 +4,7 @@ SQL Practice Project 1/csv_files/skills_dim.csv
 SQL Practice Project 1/csv_files/skills_job_dim.csv
 SQL Practice Project 1/top_paying_jobs.csv
 SQL Practice Project 1/top_paying_jobs_results.json
+SQL Practice Project Data Jobs/csv_files/company_dim.csv
+SQL Practice Project Data Jobs/csv_files/job_postings_fact.csv
+SQL Practice Project Data Jobs/csv_files/skills_dim.csv
+SQL Practice Project Data Jobs/csv_files/skills_job_dim.csv
